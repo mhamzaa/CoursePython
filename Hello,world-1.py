@@ -1,1 +1,3 @@
-print("hello, world!")
+facts = input("name: ")
+
+print (f"hello, {facts}")

@@ -56,3 +56,7 @@ for characters in names:
 #dictionaries
 
 houses = {"Harry":"Gryffindor", "Draco":"Slytherin"}
+
+houses["Ron"] = "Gryffindor"
+
+print(houses["Ron"])

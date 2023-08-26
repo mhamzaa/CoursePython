@@ -61,12 +61,7 @@ houses["Ron"] = "Gryffindor"
 
 print(houses["Ron"])
 
-
+"""
 
 def square(y):
     return y * y
-
-for i in range(1):
-    print(f"The sqaure of {i} is {square(i)}")
-
-"""
